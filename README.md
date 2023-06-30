@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7760665.svg)](https://doi.org/10.5281/zenodo.7760665)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8100310.svg)](https://doi.org/10.5281/zenodo.8100310)
 
 # IRI model
 This repository provides the hepatocyte model of ischemia reperfusion injury (IRI).
@@ -10,11 +10,11 @@ The corresponding perfusion model is available from [`iri_perfusion.xml`](./mode
 corresponding SBML4humans model report at [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/iri-model/main/models/iri_perfusion.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/iri-model/main/models/iri_perfusion.xml)
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7760665.svg)](https://doi.org/10.5281/zenodo.7760665)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8100310.svg)](https://doi.org/10.5281/zenodo.8100310)
 
 > König, Matthias. (2023). 
 > *Hepatocyte model of ischemia reperfusion injury (IRI).*   
-> Zenodo. [https://doi.org/10.5281/zenodo.7760665](https://doi.org/10.5281/zenodo.7760665)
+> Zenodo. [https://doi.org/10.5281/zenodo.8100310](https://doi.org/10.5281/zenodo.8100310)
 
 ## License
 
