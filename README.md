@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8100310.svg)](https://doi.org/10.5281/zenodo.8100310)
 
-# IRI model
-This repository provides the hepatocyte model of ischemia reperfusion injury (IRI) described in
+# SimLivA IRI model
+This repository provides the SimLivA hepatocyte model of ischemia reperfusion injury (IRI) described in
 
 > SimLivA – Modelling ischemia reperfusion injury in the liver: A first step towards a clinical decision support tool.  
 Hans-Michael Tautenhahn, Tim Ricken, Uta Dahmen, Luis Mandl, Laura Bütow, Steffen Gerhäusser, Lena Lambers, Xinpei Chen, Elina Lehmann, Olaf Dirsch, Matthias König  
@@ -43,4 +43,4 @@ Funding
 =======
 Matthias König was supported by the Federal Ministry of Education and Research (BMBF, Germany) within ATLAS by grant number 031L0304B and by the German Research Foundation (DFG) within the Research Unit Program FOR 5151 "QuaLiPerF (Quantifying Liver Perfusion-Function Relationship in Complex Resection - A Systems Medicine Approach)" by grant number 436883643 and by grant number 465194077 (Priority Programme SPP 2311, Subproject SimLivA). This work was supported by the BMBF-funded de.NBI Cloud within the German Network for Bioinformatics Infrastructure (de.NBI) (031A537B, 031A533A, 031A538A, 031A533B, 031A535A, 031A537C, 031A534A, 031A532B). 
 
-© 2022-2023 Matthias König, [Systems Medicine of the Liver](https://livermetabolism.com)
+© 2022-2024 Matthias König, [Systems Medicine of the Liver](https://livermetabolism.com)
