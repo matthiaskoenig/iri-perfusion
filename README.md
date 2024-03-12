@@ -1,7 +1,12 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8100310.svg)](https://doi.org/10.5281/zenodo.8100310)
 
 # IRI model
-This repository provides the hepatocyte model of ischemia reperfusion injury (IRI).
+This repository provides the hepatocyte model of ischemia reperfusion injury (IRI) described in
+
+> SimLivA – Modelling ischemia reperfusion injury in the liver: A first step towards a clinical decision support tool.\\
+Hans-Michael Tautenhahn, Tim Ricken, Uta Dahmen, Luis Mandl, Laura Bütow, Steffen Gerhäusser, Lena Lambers, Xinpei Chen, Elina Lehmann, Olaf Dirsch, Matthias König\\
+GAMM-Mitteilungen. (2024), e202370003. doi:[10.1002/gamm.202370003](https://doi.org/10.1002/gamm.202370003)
+
 
 The model is distributed as [SBML](http://sbml.org) available from [`iri_liver.xml`](./models/iri_liver.xml) with 
 corresponding SBML4humans model report at [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/iri-model/main/models/iri_liver.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/iri-model/main/models/iri_liver.xml)
